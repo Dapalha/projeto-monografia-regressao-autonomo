@@ -10,8 +10,8 @@ Os notebooks são autossuficientes: o código reutilizável (pacote `fraude/`) e
 
 | Notebook | Conteúdo | Colab |
 |---|---|---|
-| [01_treinamento_e_avaliacao](notebooks/01_treinamento_e_avaliacao.ipynb) | tratamento dos dados, montagem da base, experimentos, figuras e modelos finais | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dapalha/projeto-monografia-regressao/blob/main/notebooks/01_treinamento_e_avaliacao.ipynb) |
-| [02_classificador](notebooks/02_classificador.ipynb) | classificação de um arquivo, ranking de uma pasta e interface web | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dapalha/projeto-monografia-regressao/blob/main/notebooks/02_classificador.ipynb) |
+| [01_treinamento_e_avaliacao](notebooks/01_treinamento_e_avaliacao.ipynb) | tratamento dos dados, montagem da base, experimentos, figuras e modelos finais | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dapalha/projeto-monografia-regressao-autonomo/blob/main/notebooks/01_treinamento_e_avaliacao.ipynb) |
+| [02_classificador](notebooks/02_classificador.ipynb) | classificação de um arquivo, ranking de uma pasta e interface web | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dapalha/projeto-monografia-regressao-autonomo/blob/main/notebooks/02_classificador.ipynb) |
 
 ## Estrutura
 
